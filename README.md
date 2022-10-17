@@ -56,7 +56,8 @@ Wenn alle Zeilen mit "OK" enden, erzeugt dies ein einziges OK als Output. Sollte
 
 | Wann | Was | Datenträger | Ergebnis |Anmerkung|
 |------|-----|-------------|----------|---------|
-|20.09.2022|DIV, MAP, KAS, VNS|neue Archivplatte 2022<br> WD Elements, 6TB|OK|verifiziert Kopie von<br>Archiv Master Backup 3 und 4|
-|30.09.2022|EXA, RBL|neue Archivplatte 2022<br>WD Elements, 6TB|OK|verifiziert Kopie von<br>Archiv Master Backup 2|
+|20.09.2022|DIV, MAP, KAS, VNS|neue Archivplatte 2022<br> WD Elements, 6TB|OK|verifiziert Kopie von<br>Archiv 3 und 4 (Master Backup)|
+|30.09.2022|EXA, RBL|neue Archivplatte 2022<br>WD Elements, 6TB|OK|verifiziert Kopie von<br>Archiv 2 (Master Backup)|
+|17.10.2022|GWLB Derivate|neue Archivplatte 2022<br>WD Elements, 6TB|OK|verifiziert Kopie von<br>Archiv 5 (Derivate Backup)|
 
 
